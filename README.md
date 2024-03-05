@@ -33,3 +33,7 @@ You should now see images on the context menu
 - Click on "Ask ChatGPT"
 
 # Demo
+
+
+https://github.com/faluciano/arc-chat-gpt-selector/assets/44780575/a4c29746-a92c-4c5a-8678-0ce47495b9c3
+
